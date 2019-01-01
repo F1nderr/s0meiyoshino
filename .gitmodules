@@ -1,0 +1,6 @@
+[submodule "iloader"]
+	path = iloader
+	url = https://github.com/Merculous/iloader
+[submodule "iBoot32Patcher"]
+	path = iBoot32Patcher
+	url = https://github.com/Merculous/iBoot32Patcher
